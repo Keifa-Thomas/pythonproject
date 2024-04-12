@@ -6,7 +6,9 @@ Welcome to my Python Jupyter Portfolio! This repository contains a collection of
 Here's a brief overview of the notebooks included in this portfolio:
 
 Data Cleaning: Learn how to clean and preprocess raw data using Python, including techniques for handling missing values, outliers, and inconsistent formatting.
-Data Manipulation: Explore methods for manipulating and transforming data using libraries like Pandas, NumPy, and SciPy, covering tasks such as reshaping, merging, and aggregating datasets.
+
+Data Manipulation: Explore methods for manipulating and transforming data using libraries like Pandas, covering tasks such as reshaping, merging, and aggregating datasets.
+
 Data Visualization: Dive into the world of data visualization with Python, using libraries like Matplotlib, Seaborn, and Plotly to create insightful charts, graphs, and interactive plots.
 
 
